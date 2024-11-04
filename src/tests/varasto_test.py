@@ -1,7 +1,7 @@
 import unittest
 from varasto import Varasto
 
-#Muutos 12
+#Muutos 12-1
 
 class TestVarasto(unittest.TestCase):
     def setUp(self):
