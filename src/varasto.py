@@ -39,7 +39,7 @@ class Varasto:
             return kaikki_mita_voidaan
 
         self.saldo = self.saldo - maara
-
+        print("Pylint: 12345678901234567890123456789012345678901234567890123456789012345678901234567890")
         return maara
 
     def __str__(self):
